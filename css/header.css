@@ -1,0 +1,149 @@
+.inicio{
+    max-width: 30rem;
+    margin: auto;
+    padding: 1rem;
+}
+
+
+img{
+    width: 30rem;
+}
+
+.sobre img{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 200px;
+    padding: 145px;
+    margin-top: -250px;
+    justify-content: center;
+}
+
+.titulo{
+    position: absolute;
+    top: 400px;
+    padding: 155px;
+    margin-top: -260px;
+    color: white;
+}
+
+.linea{
+    position: absolute;
+    top: 500px;
+    padding: 100px;
+    margin-top: -260px;
+    color: white; 
+}
+
+
+.boton img{
+    width: 256px;
+    height: 43px;
+    position: absolute;
+    top: 540px;
+    padding: 115px;
+    margin-top: -250px;
+    justify-content: center;
+}
+
+
+.inicial{
+    position: absolute;
+    top: 350px;
+    padding: 790px;
+    margin-top: -480px;
+    align-items: center;
+}
+
+
+.opcion img{
+    width: 108px;
+    height: 108px;
+    position: absolute;
+    padding: 700px;
+    margin-top: -480px;
+    justify-content: center;
+}
+
+.data{
+    position: absolute;
+    top: 570px;
+    padding: 825px;
+    margin-top: -600px;
+    justify-content: center;
+    
+}
+
+.info{
+    position: absolute;
+    top: 600px;
+    padding: 680px;
+    margin-top: -450px;
+    right: 25px;
+    margin-left: 155px;
+}
+
+.precio{
+    position: absolute;
+    top: 650px;
+    padding: 680px;
+    margin-top: -450px;
+    margin-left: 150px;
+}
+
+.logo img{
+    width: 25px;
+    height: 15px;
+    position: absolute;
+    top: 740px;
+    padding: 1150px;
+    margin-top: -980px;
+
+}
+
+
+.opcion2 img{
+    width: 108px;
+    height: 108px;
+    position: absolute;
+    top: 790px;
+    padding: 700px;
+    margin-top: -480px;
+    justify-content: center;
+}
+
+/* .data2{
+    position: absolute;
+    top: 570px;
+    padding: 825px;
+    margin-top: -600px;
+    justify-content: center;
+    
+}
+
+.info2{
+    position: absolute;
+    top: 600px;
+    padding: 680px;
+    margin-top: -450px;
+    right: 25px;
+    margin-left: 155px;
+}
+
+.precio2{
+    position: absolute;
+    top: 650px;
+    padding: 680px;
+    margin-top: -450px;
+    margin-left: 150px;
+}
+
+.logo2 img{
+    width: 25px;
+    height: 15px;
+    position: absolute;
+    top: 740px;
+    padding: 1150px;
+    margin-top: -980px;
+
+} */
